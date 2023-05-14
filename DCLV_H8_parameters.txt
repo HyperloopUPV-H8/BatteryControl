@@ -24,15 +24,15 @@ Po_rated = 750             // rated output power
 
 K_load = 1           // load percentage with respect to the rated load
 
-Q_rated = 0.3       // Q factor at the rated condition
+Q_rated = 0.36       // Q factor at the rated condition
 
 //-------------- Operating Conditions -----------------
 
 f_res = 100000           // resonant frequency
           
-K_ind = 6           // parallel-to-series inductance ratio
+K_ind = 4           // parallel-to-series inductance ratio
 
-K_rel_freq = 0.9           // relative frequency factor for open-loop operation
+K_rel_freq = 1           // relative frequency factor for open-loop operation
 
 
 //********************************************
